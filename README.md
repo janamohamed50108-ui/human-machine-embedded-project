@@ -19,6 +19,8 @@ with two push buttons. When the temperature goes outside the limits, or the sens
 | Hagar Ahmed | 202400574 |
 | Maya Mohamed | 202400179 |
 
+**GitHub repository:** https://github.com/janamohamed50108-ui/human-machine-embedded-project
+
 **Demo video:** [docs/test_prototype_video.mp4](docs/test_prototype_video.mp4) (37 s)
 
 | Time | What the video shows |
@@ -101,7 +103,7 @@ Totals exclude the LCD and buzzer, whose prices were not recorded. Quantities ar
 ## Software structure
 
 ```
-HMI_TempMonitor/                   (repository root)
+human-machine-embedded-project/    (repository root)
 ├── README.md
 ├── main/                          Arduino sketch folder (open main.ino)
 │   ├── main.ino                   application: limits, alarm logic, LCD screens, main loop
