@@ -1,0 +1,7 @@
+build/
+*.hex
+*.elf
+*.o
+output.xml
+log.html
+report.html
